@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @youxiangming
 - 👀 I’m interested in SLAM and robotics, 
-- 🌱 I’m currently learning robotic system engineering in RWTH aachen university
+- 🌱 I’m currently studying robotic system engineering in RWTH aachen university
 - 💞️ 
 - 📫 reach me by e-mail xiangming.you@rwth-aachen.de
 
